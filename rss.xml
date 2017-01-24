@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0">
+<channel>
+<item>
+<title>New exciting offers!</title>
+<description>Check out new types of dolls!</description>
+<link>http://creepydolls.byethost7.com/index.html#gallery</link>
+</item>
+<item>
+<title>New gallery!</title>
+<description>See pictures of our dolls in HD</description>
+<link>http://creepydolls.byethost7.com/index.html#two</link>
+</item>
+<item>
+<title>Contact the artists?</title>
+<description>Check out our friends over at www.popovy-dolls.com</description>
+<link>http://creepydolls.byethost7.com/index.html</link>
+</item>
+<item>
+<title>Register!</title>
+<description>Make an account. It's quick and easy!</description>
+<link>http://creepydolls.byethost7.com/index.html#register</link>
+</item>
+</channel>
+</rss>
